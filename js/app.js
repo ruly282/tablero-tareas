@@ -67,7 +67,11 @@ actualizarContador();
 
 
 // ===== Zona B: limpiar completadas (sesión 2) =====
-
+document.getElementById('limpiar').addEventListener('click', () => {
+  tareas = tareas.filter(t => !t.hecha);
+  guardar();
+  render();
+});
 
 
 // ===== Zona C: tema oscuro (sesión 2) =====
