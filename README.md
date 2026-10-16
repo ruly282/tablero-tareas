@@ -25,4 +25,6 @@ Repositorio: [tablero-tareas](https://github.com/ruly282/tablero-tareas)
 
 ## Funciones agregadas en el taller
 
-- (se llena en la sesión 2)
+- Raul Ortega - Agregar contador de pendientes
+- Michelle Reyes - Boton limpiar tareas hechas
+- Angel Nieblas - Agregar tema oscuro
